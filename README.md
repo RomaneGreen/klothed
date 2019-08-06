@@ -1,3 +1,3 @@
 # klothed
 
-clothing store
+Shopify clothing store
